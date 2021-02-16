@@ -14,6 +14,6 @@ function multiplay(a, b) {
   return a * b;
 }
 
-function divide(a, b) {
+function divide_free(a, b) {
   return a / b;
 }
